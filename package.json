@@ -1,0 +1,14 @@
+{
+  "name": "bolt-testing-npm",
+  "version": "1.0.0",
+  "description": "Test to how bolt is handling solved issues",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Elad Kirmayer",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^3.2.0",
+  }
+}
